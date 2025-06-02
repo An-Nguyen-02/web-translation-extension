@@ -4,6 +4,8 @@ A web extension to add audio transcribe for English audio and translate to Vietn
 ## Purposes
 - This project is created for language learner to be able to listen to any tab on their browser and translate it to their own language. The original languages are selected for my mom to learn English.
 - This's a learning project, create to understand how web extension and audio transcribe as well as translate works. Therefore, it aims to runs shortly, there are many web services that already made such tool available for transcribe and translate like AWS but it's not free.
+- Try to have live translate, if not possible, take the record and translate from there, compare accuracy.
+- Try other available services as well take in mind the price, how long the translation can last and how to scale.
 
 ## Implementation milestones:
 1. A web extension that capture audio (An)
