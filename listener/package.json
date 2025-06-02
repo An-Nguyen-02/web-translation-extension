@@ -1,0 +1,16 @@
+{
+  "name": "web-translation-extension-frontend",
+  "version": "1.0.0",
+  "description": "A web extension to add audio transcribe for English audio and translate to Vietnamese, show both text on screen.",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "An Nguyen",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.52.0"
+  }
+}
