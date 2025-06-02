@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Live Audio Translate",
+  "version": "1.0",
+
+  "permissions": ["tabCapture"],
+
+  "action": {
+    "default_popup": "popup.html"
+  },
+
+  "host_permissions": ["ws://localhost:8000/"]
+}
